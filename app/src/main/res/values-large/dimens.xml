@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="card_corner_radius">4dp</dimen>
+    <dimen name="card_elevation">2dp</dimen>
+
+    <dimen name="text_size_headline">28sp</dimen>
+    <dimen name="text_size_title">24sp</dimen>
+    <dimen name="text_size_subhead">22sp</dimen>
+    <dimen name="text_size_body2">16sp</dimen>
+
+    <dimen name="item_job_height">156dp</dimen>
+    <dimen name="header_height">192dp</dimen>
+    <dimen name="filter_bar_height">72dp</dimen>
+    <dimen name="imageView_padding_bottom">36dp</dimen>
+    <dimen name="icons_filter_bar_size">24dp</dimen>
+
+
+</resources>

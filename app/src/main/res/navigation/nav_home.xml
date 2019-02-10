@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<navigation xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    app:startDestination="@id/homeFragment">
+
+
+    <fragment
+        android:id="@+id/homeFragment"
+        android:name="com.alazz.jobsfinder.home.HomeFragment"
+        android:label="@string/home_navigation_label" >
+        <action
+            android:id="@+id/actionHomeFragmentToJobDetailsFragment"
+            app:destination="@id/jobDetailsFragment" />
+
+    </fragment>
+    <fragment
+        android:id="@+id/jobDetailsFragment"
+        android:name="com.alazz.jobsfinder.jobDetails.JobDetailsFragment"
+        android:label="@string/jobDetails_navigation_label"
+        tools:layout="@layout/fragment_job_details" >
+        <argument
+            android:name="job"
+            app:argType="com.alazz.jobsfinder.network.Model.Job" />
+        <action
+            android:id="@+id/action_jobDetailsFragment_to_homeFragment"
+            app:destination="@id/homeFragment" />
+    </fragment>
+</navigation>

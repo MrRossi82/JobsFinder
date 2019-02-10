@@ -1,0 +1,34 @@
+<resources>
+    <string name="app_name">Jobs Finder</string>
+
+
+    <string name="job_type">Full Time</string>
+
+    <string name="job_company_hint">Company</string>
+    <string name="job_location_hint">Location</string>
+    <string name="job_default_text">-</string>
+
+    <string name="button_apply_job">Apply for this Job</string>
+
+    <string name="created_at_job" formatted="true">Posted on  %s</string>
+    <string name="home_navigation_label">Home</string>
+    <string name="jobDetails_navigation_label">Job Details</string>
+    <string name="list_jobs_message_empty">Jobs Not Found !</string>
+    <string name="list_jobs_message_empty_describe">Sorry, please try again later …</string>
+    <string name="list_jobs_message_no_results_title">No Results Found !</string>
+    <string name="list_jobs_message_no_results_describe">You Can Try Different Keywords Or Remove The Filter …</string>
+    <string name="filter_dialog_all_jobs">All Jobs</string>
+    <string name="filter_dialog_title">Filter Jobs</string>
+    <string name="hints_position_hint">Position</string>
+    <string name="sort_by">Provider</string>
+    <string name="provider_github">Github</string>
+    <string name="provider_search">Search</string>
+    <string name="dialog_button_filter">Filter</string>
+    <string name="dialog_button_cancel">Cancel</string>
+
+    <string name="any_position">Any Position</string>
+    <string name="any_location">Any Location</string>
+    <string name="any_provider">Any Provider</string>
+
+
+</resources>

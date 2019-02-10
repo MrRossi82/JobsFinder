@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources>
+
+
+    <string-array name="list_header">
+        <item>Find Last Jobs</item>
+        <item>On</item>
+        <item>Github</item>
+        <item>Search</item>
+    </string-array>
+
+
+</resources>

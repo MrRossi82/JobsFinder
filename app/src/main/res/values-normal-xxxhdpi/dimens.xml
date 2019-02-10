@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <dimen name="text_size_headline">24sp</dimen>
+    <dimen name="text_size_title">22sp</dimen>
+    <dimen name="text_size_subhead">20sp</dimen>
+    <dimen name="text_size_body2">14sp</dimen>
+
+
+    <dimen name="item_job_height">200dp</dimen>
+    <dimen name="header_height">156dp</dimen>
+    <dimen name="filter_bar_height">72dp</dimen>
+    <dimen name="imageView_padding_bottom">36dp</dimen>
+    <dimen name="icons_filter_bar_size">24dp</dimen>
+
+    <dimen name="divider_height">1dp</dimen>
+
+</resources>
